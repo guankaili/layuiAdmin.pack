@@ -20,7 +20,7 @@
     "gulp-uglify": "^1.5.4",
     "minimist": "^1.2.0",
     "mocha": "^3.2.0",
-    "sinon": "^3.2.1",
+    "sinon": "^3.3.0",
     "sinon-chai": "^2.13.0"
   }
 }
